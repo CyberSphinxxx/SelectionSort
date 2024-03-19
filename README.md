@@ -17,6 +17,14 @@ The script then sorts the list in ascending order using the Selection Sort algor
 - **Output:** Displays the sorted array after sorting.
 
 ---------------------------------------------------
+**Example of the output:**
+
+Enter the list of numbers separated by spaces: 7 2 4 1 5
+
+Sorted array: [1, 2, 4, 5, 7]
+
+
+---------------------------------------------------
 **Usage:**
 
 1. Clone the repository to your local machine.
@@ -26,3 +34,4 @@ The script then sorts the list in ascending order using the Selection Sort algor
 5. The script will output the sorted array.
 
 Feel free to contribute to this repository by suggesting improvements or optimizations!
+---------------------------------------------------
