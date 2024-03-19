@@ -16,7 +16,7 @@ The script then sorts the list in ascending order using the Selection Sort algor
 - **User Input:** Prompts the user to input a list of numbers.
 - **Output:** Displays the sorted array after sorting.
 
-<img align="center" alt="Coding" width="500" src="https://miro.medium.com/v2/resize:fit:1144/1*5WXRN62ddiM_Gcf4GDdCZg.gif">
+<img align="center" alt="Coding" width="1400" src="https://miro.medium.com/v2/resize:fit:1144/1*5WXRN62ddiM_Gcf4GDdCZg.gif">
 
 
 ---------------------------------------------------
